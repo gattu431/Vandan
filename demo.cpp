@@ -29,6 +29,8 @@ string fun()
     cin>>hello;
 
     return(hello);
+    
+    //gattu chakko
 }
 
 // [2,6,1,15]
